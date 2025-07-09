@@ -26,3 +26,6 @@ Learned about the Arduino board basic parts working and the Arduino programming 
 Executed  a task using the knowledge of previous days in a week.
 Task-1: simple embedded system using a microcontroller to count and display the number of times a push button is pressed and displaying the count on lcd display or serial monitor.
 
+**output**:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5791716a-ad8c-4fa7-8fff-448854e5396f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e150667b-2b1d-4b1b-b127-ff8a506dd572" />
+
